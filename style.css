@@ -14,11 +14,11 @@ body{
   background: #ee6eb6;
 }
 h1 {
-  text-align: center; /* Horizontally center the text */
-  position: absolute; /* Position the element absolutely within the body */
-  top: 0; /* Place it at the top */
-  left: 50%; /* Horizontally center relative to its container */
-  transform: translateX(-50%); /* Correct for centering */
+  text-align: center; 
+  position: absolute;
+  top: 0; 
+  left: 50%;
+  transform: translateX(-50%);
   font-family: 'Poppins', sans-serif;
   color: #fff;
 }
